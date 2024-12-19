@@ -1,0 +1,82 @@
+npx create-react-app my-app
+cd my-app
+npm start
+Se você usa npm 5.1 ou anterior, não pode usar npx. Em vez disso, instale create-react-appglobalmente:
+
+npm install -g criar-react-app
+Agora você pode executar:
+
+create-react-app my-app
+npm run build
+
+npx create-react-app my-app
+
+npm init react-app my-app
+
+npm init <initializer>
+
+yarn create react-app my-app
+
+npx create-react-app my-app --template [template-name]
+
+cra-template-[template-name]/
+  README.md (for npm)
+  template.json
+  package.json
+  template/
+    README.md (for projects created from this template)
+    gitignore
+    public/
+      index.html
+    src/
+      index.js (or index.tsx)
+
+npx create-react-app my-app --template file:../path/to/your/template/cra-template-[template-name]
+
+{
+  "package": {
+    "dependencies": {
+      "eslint-plugin-jsx-a11y": "^6.2.3",
+      "serve": "^11.2.0"
+    },
+    "scripts": {
+      "serve": "serve -s build",
+      "build-and-serve": "npm run build && npm run serve"
+    },
+    "eslintConfig": {
+      "extends": ["react-app", "plugin:jsx-a11y/recommended"],
+      "plugins": ["jsx-a11y"]
+    }
+  }
+}
+
+npx create-react-app my-app --template typescript
+
+# Run this to use npm
+npx create-react-app my-app
+# Or run this to use yarn
+yarn create react-app my-app
+
+my-app
+├── README.md
+├── node_modules
+├── package.json
+├── .gitignore
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+└── src
+    ├── App.css
+    ├── App.js
+    ├── App.test.js
+    ├── index.css
+    ├── index.js
+    ├── logo.svg
+    ├── serviceWorker.js
+    └── setupTests.js
+
+cd my-app
