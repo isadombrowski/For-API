@@ -1,0 +1,122 @@
+cinco páginas
+
+{% extends "base.html"}
+
+<
+{% block content%}
+
+<main>
+<selection id="imgcapa">
+<img class="capa" src="{{url_for('static', filename='./imagens/capa.png')}} alt=...
+</selection>
+</main>
+{% endblock %}
+
+
+https://github.com/vercel/commerce
+
+
+DESENVOLVIMENTO DE SENSORES PARA A IDENTIFICAÇÃO RÁPIDA DE PERÓXIDOS EM ALIMENTOS
+
++55 (11) 4116-4616 ou pelo email: hello@starkbank.com
+
+
+Empresas - Desafios:
+
+3D PRINT ACADEMY — Aplicação de manufatura aditiva em saneamento básico
+
+ACCENTURE — Robotização no processo de inspeção de ativos industriais
+
+ACCIONA — Tratamento de solos urbanos contaminados por hidrocarbonetos (vazamentos em postos de combustíveis)
+
+ADM — Como a Química participa da produção de alimentos mais seguros e saudáveis
+
+ANALÍTICA — Desenvolvimento e caracterização de padrão de microplástico para análise em meio ambiente
+
+ANDRADE GUTIERREZ — Lançamento de cabos de alta tensão subterrâneos em uma usina termoelétrica
+
+AUTODOC — Canteiro inteligente: histórico automático de chuva
+
+AUTODOC — Colete moedas com a segurança do trabalho
+
+CONCRESERV — Quem sabe faz com resíduo
+
+DARBOT/EDACOM/LEGO — Robo Fut & Seguidor de linha & Pode resgatar
+
+DIVE REALITIES — Projetando um Metaverso para Engenheiros
+
+ENGEFORM — Aumento de produtividade na execução de redes e ramais de esgoto em vala a céu aberto
+
+FESTO — Robôs Bionics na resolução de problemas industriais
+
+FRANCISCO MORATO — Criação de estruturas de bambu para intervenções sustentáveis em rotas viárias
+
+GEOFIX — Desafios para a escavação de subsolos de um edifício, abaixo do lençol freático
+
+GRUPO PETROPOLIS — Desenvolvimento de produtos através de Inteligência Artificial
+
+HP/FIT — Sustainable Surface Finishing Process for 3D Parts in Industrial Scale
+
+HP/FIT — Assembly Station Cycle Time Count System
+
+HUAWEI — Viabilidade econômica de sistemas de armazenamento de energia com baterias (BESS) fotovoltaicas
+
+HUAWEI — A conectividade impulsionando a educação no Brasil
+
+IBAPE — Estimativa de lucro no desenvolvimento imobiliário residencial
+
+MAXION WHEELS — Reaproveitamento de calor como fonte de energia
+
+MECALOR — Alternativas para mitigar o congelamento em evaporadores do tipo placas em chillers
+
+MEGA REFORÇA — Parametrização de Estacas Mega
+
+NEC — 5G e OpenRAN – Opções e Aplicações para monetizar o 5G
+
+NEC — Agricultura de Precisão: Aplicações e Desafios para monetização
+
+SBT — TV 3.0 – Convergência do Broadcast & Broadband
+
+SYSTRA — Redução da pegada de carbono em ferrovias
+
+TECH MAHINDRA — Transformação Digital no Processo de Otimização e Operação de uma Rede Celular
+
+TEGRA — Soluções construtivas e/ou materiais inovadores para construção civil que viabilizem o cumprimento das metas de redução de emissão de GEE do compromisso estratégico 2030 da TEGRA
+
+TPF — Gestão de Projetos Complexos
+
+VIBES ENGENHARIA — Dimensionamento de um tratamento de contenção em parede diafragma
+
+1
+Veja mais
+
+Escola de Engenharia do Mackenzie e Stark Bank promovem Hackathon
+ 02/09/2024
+
+
+MackMentoring - Edital Aberto
+ 17/05/2023
+
+
+Começa a 2ª edição do Hackathon da Escola de Engenharia
+ 25/04/2023
+
+
+Mackenzie Campinas realiza VII Semana de Estudos Organizacionais
+ 25/04/2023
+
+
+Ministro do STF e ex-presidente da República participarão de conferência no Mackenzie
+ 19/04/2023
+
+
+Mackgraphe recebe visita da Vibra Energia
+ 17/04/2023
+
+
+Centro Histórico e Cultural Mackenzie recebe doação de projetos de Alberto Botti
+ 17/04/2023
+
+
+GPS sem satélite: pesquisa do Mackenzie desenvolve aparelho de geolocalização
+ 14/04/2023
